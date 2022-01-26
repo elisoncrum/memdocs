@@ -309,7 +309,7 @@ Internet Information Services (IIS) is a flexible, scalable web server that can 
 
           -   **Feature Administration Tools**  
 
-          -   **BITS Server Extensions Tools**  
+              -   **BITS Server Extensions Tools**  
 
 7.  Click **Install** and verify that the installation completed properly in the **Notifications** pane of **Server Manager**.  
 
